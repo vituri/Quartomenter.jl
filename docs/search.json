@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "quarto_docs.html",
+    "href": "quarto_docs.html",
+    "title": "Reference",
+    "section": "",
+    "text": "quarto_block(x)\nInterpolate the string x with the Quarto callout block. Return a MD.\n\n\n\n\n\n\n\n\n\n@qdoc\nCreate a MD block with a macro.\n\n\n\n\n\n\n\n\n\ncreate_qmds_doc(m::Module, filepath = \"quarto-docs/quarto_docs.qmd\")\nCreate the .qmd with all documentation from the module."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Test",
+    "section": "",
+    "text": "Test"
+  },
+  {
+    "objectID": "quarto_docs.html#module-quartomenter",
+    "href": "quarto_docs.html#module-quartomenter",
+    "title": "Reference",
+    "section": "",
+    "text": "quarto_block(x)\nInterpolate the string x with the Quarto callout block. Return a MD.\n\n\n\n\n\n\n\n\n\n@qdoc\nCreate a MD block with a macro.\n\n\n\n\n\n\n\n\n\ncreate_qmds_doc(m::Module, filepath = \"quarto-docs/quarto_docs.qmd\")\nCreate the .qmd with all documentation from the module."
+  }
+]

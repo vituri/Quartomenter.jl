@@ -1,0 +1,35 @@
+# Reference 
+ 
+
+## Module Quartomenter 
+
+:::{.callout-note appearance="simple"}
+
+```
+quarto_block(x)
+```
+
+Interpolate the string `x` with the Quarto callout block. Return a MD.
+
+:::
+
+:::{.callout-note appearance="simple"}
+
+```
+@qdoc
+```
+
+Create a MD block with a macro.
+
+:::
+
+:::{.callout-note appearance="simple"}
+
+```
+create_qmds_doc(m::Module, filepath = "quarto-docs/quarto_docs.qmd")
+```
+
+Create the .qmd with all documentation from the module.
+
+:::
+
