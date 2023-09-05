@@ -7,5 +7,4 @@ include("docstrings.jl")
 export @qdoc, 
     quarto_block, 
     create_qmds_doc;
-
 end
